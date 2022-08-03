@@ -1,4 +1,4 @@
-# WeLoveMovies Frontend Application
+# What's Playing?
 
 This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
 
